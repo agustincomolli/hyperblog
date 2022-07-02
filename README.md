@@ -13,6 +13,7 @@ Machine Learning
 * Las personalidades múltiples de Freddy
 * Creado por el increíble Platzi Team
 * Incluye ejemplos en Linux, Windows y Mac
+* Disponible para todas las edades
 
 Y como amable recordatorio **Este README.md es un chiste**. Diseñado para el
 ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve 
